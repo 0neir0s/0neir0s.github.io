@@ -6,8 +6,9 @@ My primary focus is software engineering & development.
 
 <br><br>
 
-#### Hobbies
+#### Interests
 
+- Functional Programming
 - [Books](https://www.goodreads.com/0neir0s)
 - Racket Sports
 - Philosophy
