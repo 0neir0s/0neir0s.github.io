@@ -12,5 +12,5 @@ My primary focus is software engineering & development.
 - [Books](https://www.goodreads.com/0neir0s)
 - Racket Sports
 - Philosophy
-- Music
+- Minimalist Design
 
