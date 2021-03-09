@@ -1,11 +1,11 @@
 const positions = [
   {
     company: 'JP Morgan Chase & Co',
-    position: 'Technology Analyst',
+    position: 'Associate',
     link: 'https://jpmorganchase.com',
     daterange: 'July 2018 - Present',
     points: [
-      'Working as a software developer and engineer',
+      'Working as a Software developer in the FX team',
     ],
   },
   {

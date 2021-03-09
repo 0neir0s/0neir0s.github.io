@@ -2,14 +2,14 @@
 #### Intro
 I am an Associate at [JP Morgan Chase & Co.](https://www.jpmorganchase.com/) 
 <br>
-My primary job function is software engineering & development.
+My primary focus is software engineering & development.
 
 <br><br>
 
-#### I like
+#### Hobbies
 
 - [Books](https://www.goodreads.com/0neir0s)
 - Racket Sports
-- Philosophy & History
+- Philosophy
 - Music
 

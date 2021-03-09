@@ -18,8 +18,7 @@ const Index = () => (
       </header>
       <p>
         Hi, I&apos;m Athul, an electrical engineer and a software developer<br />
-        An <a href="http://www.iitb.ac.in/">IIT Bombay</a> graduate, I currently work as a Technology
-        Analyst in <a href="https://www.jpmorganchase.com/">JP Morgan Chase &amp; Co.</a>.<br />Feel free to check out my {' '}<Link to="/resume">resume</Link>, {' '}<Link to="/projects">projects</Link>, {' '}view <Link to="/stats">site statistics</Link>, {' '}or <Link to="/contact">contact</Link> me.
+        An <a href="https://www.iitb.ac.in/">IIT Bombay</a> and <a href="https://www.wqu.org/">WQU</a> graduate, I currently work as an Associate in <a href="https://www.jpmorganchase.com/">JP Morgan Chase &amp; Co.</a>.<br />Feel free to check out my {' '}<Link to="/resume">resume</Link>, {' '}<Link to="/projects">projects</Link>, {' '}view <Link to="/stats">site statistics</Link>, {' '}or <Link to="/contact">contact</Link> me.
       </p>
     </article>
   </Main>
