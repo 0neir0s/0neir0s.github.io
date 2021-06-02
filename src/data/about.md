@@ -3,7 +3,6 @@
 I am an Associate at [JP Morgan Chase & Co.](https://www.jpmorganchase.com/) 
 <br>
 My primary focus is software engineering & development.
-
 <br><br>
 
 #### Interests
