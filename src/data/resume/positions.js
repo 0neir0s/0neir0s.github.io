@@ -9,7 +9,7 @@ const positions = [
     ],
   },
   {
-    company: 'JP Morgan Chase & Co',
+    company: 'J.P. Morgan',
     position: 'Software Intern',
     link: 'https://jpmorganchase.com',
     daterange: 'May 2017 - July 2017',
