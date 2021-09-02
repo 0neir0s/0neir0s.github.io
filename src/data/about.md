@@ -1,6 +1,6 @@
 
 #### Intro
-I am an Associate at [JP Morgan Chase & Co.](https://www.jpmorganchase.com/) 
+I am a Software Engineer at [Google](https://www.google.com/) 
 <br>
 My primary focus is software engineering & development.
 <br><br>
